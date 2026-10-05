@@ -1,0 +1,46 @@
+{
+  "device": "cpu",
+  "epochs_per_state": 1000,
+  "states": [
+    {
+      "relative_l2_error": 0.012788080610334873,
+      "max_absolute_error": 0.008468132466077805,
+      "normalization_error": 1.537799835205078e-05,
+      "state": 0,
+      "exact_energy": 0.5,
+      "predicted_energy": 0.5001163482666016,
+      "energy_absolute_error": 0.0001163482666015625,
+      "final_loss": 0.0003830867644865066
+    },
+    {
+      "relative_l2_error": 0.4699934124946594,
+      "max_absolute_error": 0.31818076968193054,
+      "normalization_error": 0.009382963180541992,
+      "state": 1,
+      "exact_energy": 1.5,
+      "predicted_energy": 1.5661178827285767,
+      "energy_absolute_error": 0.06611788272857666,
+      "final_loss": 0.10430460423231125
+    },
+    {
+      "relative_l2_error": 0.031318433582782745,
+      "max_absolute_error": 0.021559961140155792,
+      "normalization_error": 0.0001380443572998047,
+      "state": 2,
+      "exact_energy": 2.5,
+      "predicted_energy": 2.5007264614105225,
+      "energy_absolute_error": 0.0007264614105224609,
+      "final_loss": 0.0018486643675714731
+    },
+    {
+      "relative_l2_error": 0.7825210094451904,
+      "max_absolute_error": 0.49816271662712097,
+      "normalization_error": 0.00901949405670166,
+      "state": 3,
+      "exact_energy": 3.5,
+      "predicted_energy": 3.61696195602417,
+      "energy_absolute_error": 0.11696195602416992,
+      "final_loss": 0.2769398093223572
+    }
+  ]
+}
